@@ -25,6 +25,10 @@ header {
     margin-top: 16px;
     margin-bottom: 48px;
 }
+img{
+    width: auto;
+    height: 300px;
+}
 
 h1 {
     font-size: 64px;
