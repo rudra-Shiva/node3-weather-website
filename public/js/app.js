@@ -1,12 +1,4 @@
-console.log('Client side javascript page loaded!')
-/*
-fetch('http://puzlle.mead.io/puzzle').then((response) =>{
-    response.json().then((data)=>{
-        console.log(data)
-    })
-})*/
 
-//real weather app
 
 
 
